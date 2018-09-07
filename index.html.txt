@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hank Quinlan, Horrible Cop</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm Avijit Kumar!</h1>
+				<p>I'm a doing my masters in Cybersecurity at Johns Hopkins. I specialize in software security and compliance.</em> I have my projects listed in my CV <a href="/about">Read more about my life...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="akumar56@jhu.edu">email</a></li>
+        		<li><a href="https://github.com/akumar56">github.com/akumar56</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
